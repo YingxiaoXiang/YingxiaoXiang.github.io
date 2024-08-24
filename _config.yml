@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yingxiao Xiang"
   avatar           : "images/IMG_5009.JPG"
-  bio              : "Ph.D. Student at Beijing Jiaotong University"
+  bio              : "Engineer at Institute of Information Engineering, CAS"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=BF5dco0AAAAJ"
-  email            : "wuyalun1@bjtu.edu.cn"
+  email            : "xiangyingxiao@iie.ac.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Allenpandas" # e.g., "github username"
+  github           : "YingxiaoXiang" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
