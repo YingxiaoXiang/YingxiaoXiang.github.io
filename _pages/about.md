@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='About-Me'></span>
 
-Hi! I am Aaron Wu (吴亚伦 in Chinese). I am a Ph.D. student in the [School of Computer and Information Techonoly](https://scit.bjtu.edu.cn/)  at [Beijing Jiaotong University](https://bjtu.edu.cn/), and affiliated with the Beijing Key Laboratory of Security and Privacy in Intelligent Transportation. I am advised by Prof. [Zhen Han](http://faculty.bjtu.edu.cn/5608/), [Wenjia Niu](http://faculty.bjtu.edu.cn/9120/) and Assistant Prof. [Endong Tong](http://faculty.bjtu.edu.cn/9306/). Prior to my Ph.D. career, I received the B.S. degree in communication engineering from [Qingdao Agricultural University](https://www.qau.edu.cn/) in 2017, and the M.S. degree in software engineering from [Beijing Jiaotong University](https://bjtu.edu.cn/) in 2022.
+Hi! I am Yingxiao Xiang(相迎宵 in Chinese). I am an engineer in the [Institute of Information Engineering, CAS](http://www.iie.ac.cn/). I received the Master degree from Beijing Jiaotong University in 2019, Ph.D. degree of cyber security in Beijing Jiaotong University in 2023. My research interests are in AI security and Network Threat Discovery.
 
 Currently, my research has centered on:
 
@@ -31,7 +31,7 @@ Currently, my research has centered on:
 
 * **Reinforcement Learning**: safety reinforcement learning (SRL), robustness reinforcement learning and offline reinforcement learning for autonomous driving systems.
 
-📮: I am always looking for related colaboration. If you are interested to chat with me, feel free to drop me an <a href="mailto:wuyalun1@bjtu.edu.cn" target="_blank">email</a>.
+📮: I am always looking for related colaboration. If you are interested to chat with me, feel free to drop me an <a href="mailto:xiangyingxiao@iie.ac.cn" target="_blank">email</a>.
 
 
 
