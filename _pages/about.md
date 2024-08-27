@@ -23,8 +23,6 @@ Currently, my research has centered on:
 
 - **AI Security:** backdoor attacks and defenses, adversarial attacks and defenses.
 
-* **Safety Testing**:  testing and evaluation for autonomous driving algorithms, modules, and systems.
-
 * **Data Augmentation**: image or video generation, especially focus on generative data augmentation (GDA) in autonomous driving scenarios.
 
 * **Autonomous Driving Security**: attacks and defenses against the physical world, sensors, algorithms and automonous driving systems.
